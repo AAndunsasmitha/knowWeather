@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.card{
+    width: 90%;
+    max-width: 470px;
+    padding: 20px;
+    text-align: center;
+    background-color: white;
+}
+.details{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
